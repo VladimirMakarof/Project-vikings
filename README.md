@@ -1,1 +1,1 @@
-https://vladimirmakarof.github.io/vikings/
+https://vladimirmakarof.github.io/Project-vikings/
